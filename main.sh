@@ -1,0 +1,1 @@
+for i in $(seq 1 100); do touch /danyrodriguez-2672501/danyrodriguez-archivo$i.txt; done
